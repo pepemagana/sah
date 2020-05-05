@@ -17,3 +17,4 @@ caja
 almacen Ademas que cumpla con los estandares en Mexico, que sea compatible con las guias de intercambio de SINBA
 
 Se realizara en la version gratuita de Delphi version 10.3.3 con conexion a base de datos con firedac, componentes ribbon
+Base de datos en Mysql version 8 o superior
