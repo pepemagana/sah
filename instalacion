@@ -1,0 +1,6 @@
+Primero debes descargar el zip y descomprimir
+Debes instalar Delphi 10.3.3, puedes empezar por la version community en este sitio https://www.embarcadero.com/es/products/delphi/starter
+Una vez instalado a traves de GetIt package manager en el menu Tools, instalar los componentes ribbon (tambien son de libre uso)
+Ahora debes descargar Mysql Version 8.0.20 en la siguiente direccion https://dev.mysql.com/downloads/mysql/
+Una vez instalado y configurado te recomiendo el cliente sqlyog community en esta direccion https://github.com/webyog/sqlyog-community/wiki/Downloads
+Abrir y ejecutar el archivo SAH.sql el cual creara en tu base de datos las tablas necesarias.
